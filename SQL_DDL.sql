@@ -7,6 +7,7 @@ CREATE TABLE sales_east (
     sale_timestamp TIMESTAMP
 );
 
+
 # Insert 1 (Initial Load)
 INSERT INTO sales_east VALUES
 (1, 101, 201, 2, 200.00, '2025-08-01 10:00:00'),
